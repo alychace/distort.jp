@@ -1,14 +1,12 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
 
-{% assign post = site.posts.first %}
+<ul class="post-list">
+{% assign count = site.posts | size | minus:1 %}
+{% for post in site.posts %}
+<li><a href="{{ post.url }}">[{{ count }}] {{ post.title | downcase }}</a><p class="post-meta">{{ site.author }} | {{ post.date | date: '%-d %B %Y' | downcase }}</p></li>
 
-<h1>{{ post.title | downcase }}</h1>
-
-{% include post-metadata.html %}
-
-{{ post.content }}
+{% assign count = count | minus: 1 %}
+{% endfor %}
+</ul>
