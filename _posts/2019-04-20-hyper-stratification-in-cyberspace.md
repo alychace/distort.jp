@@ -3,7 +3,7 @@ title: Hyper-Stratification and Technosocial Capital in Cyberspace
 date: 2019-04-20
 layout: post
 published: true
-description: Cyberspace has put
+description: On the undelivered dreams of the 90s.
 keywords: cyberspace, accelerationism, capitalist realism, social capital, technology, social justice
 ---
 
