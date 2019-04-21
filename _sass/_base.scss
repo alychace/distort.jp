@@ -46,6 +46,9 @@ footer {
   margin: auto;
   text-align: center;
   font-family: $heading-font-family;
+  a {
+    text-decoration: none;
+  }
 }
 
 .topnav {
