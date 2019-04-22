@@ -3,7 +3,7 @@ title: "Barriers to Motherhood: Biotechnology, Reproductive Justice, and Transge
 date: 2018-11-09 12:50:00 Z
 layout: post
 author: Alexandra Chace
-published: true
+published: false
 description: Summary of trans women's reproductive issues, the role of biotechnology, and the risks of restating trans reproductivity in normative terms.
 keywords: transgender, transgender women, reproductive activism, reproductive justice, transmisogyny, technology, reproductive technology, motherhood
 ---

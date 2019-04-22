@@ -3,7 +3,7 @@ title: "Are All Women Angry About This? Notes on Identity Politics and Affective
 date: 2018-11-05 12:50:00 Z
 layout: post
 author: Alexandra Chace
-published: true
+published: false
 description: Response to renewed calls for women's anger in the light of the Kavanaugh hearings, exploring issues of identity and shared anger and their role in (non)disruptive politics.
 keywords: women, feminism, anger, Kavanaugh, patriarchy, rape culture, misogyny, identity, affect, theory, philosophy
 ---
