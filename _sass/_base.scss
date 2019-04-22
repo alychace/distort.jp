@@ -105,3 +105,10 @@ footer {
     margin-bottom: 0;
 
 }
+
+@media only screen and (max-device-width: 480px) {
+  .wrapper {
+      padding-right: $phone-horizontal-spacing-unit;
+      padding-left: $phone-horizontal-spacing-unit;
+  }
+}
