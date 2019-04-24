@@ -5,8 +5,9 @@ permalink: /links/
 ---
 
 ## Contact:
-- Email: [alex@frenziedstasis.org](mailto:alex@frenziedstasis.org)
-- Twitter: [@alreadyseveral](http://twitter.com/{{site.twitter}})
+Email: [alex@frenziedstasis.org](mailto:alex@frenziedstasis.org)
+
+Twitter: [@alreadyseveral](http://twitter.com/{{site.twitter}})
 
 ## On the Wired:
 - [homepage](http://twitter.com/{{site.homepage}}).
