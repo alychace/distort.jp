@@ -2,7 +2,7 @@
 layout: default
 permalink: /links/
 ---
-## Contact
+## Contact:
 - Email: [alex@frenziedstasis.org](mailto:alex@frenziedstasis.org)
 - Twitter: [@alreadyseveral](http://twitter.com/{{site.twitter}})
 
