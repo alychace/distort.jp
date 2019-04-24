@@ -1,5 +1,6 @@
 ---
 layout: default
+description: Accelerated writings on cybernetics, technology, capitalism, gender, and whatever else comes to mind.
 ---
 
 Welcome.
