@@ -5,6 +5,11 @@
   margin: auto;
   text-align: center;
   font-family: $heading-font-family;
+  display: block;
+  list-style: none;
+  li {
+    display: inline;
+  }
 }
 
 /* Style the links inside the navigation bar */
@@ -12,8 +17,8 @@
   color: $text-color;
   text-align: center;
   padding: 4px 6px;
-  text-decoration: none;
   font-size: 17px;
+  text-decoration: none;
 }
 
 /* Change the color of links on hover */
@@ -23,7 +28,7 @@
 }
 
 /* Add a color to the active/current link */
-.topnav a.active {
+.topnav a:active {
   background-color: $secondary-color;
   color: $background-color;
 }

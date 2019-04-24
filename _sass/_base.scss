@@ -24,6 +24,10 @@ a {
   color: $secondary-color;
 }
 
+a:hover {
+  color: $text-color;
+}
+
 footer {
   margin-top: 50px;
   text-align: center;
@@ -37,7 +41,8 @@ footer {
   margin-left: auto;
   padding-right: $horizontal-spacing-unit;
   padding-left: $horizontal-spacing-unit;
-  padding-top: 25px;
+  padding-top: $vertical-spacing-unit;
+  display: block;
 }
 
 .logo {
@@ -48,12 +53,8 @@ footer {
   margin: auto;
   text-align: center;
   font-family: $heading-font-family;
+  display: block;
   a {
     text-decoration: none;
   }
 }
-
-
-
-
-
