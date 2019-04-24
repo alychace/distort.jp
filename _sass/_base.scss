@@ -31,7 +31,7 @@ a:hover {
 footer {
   margin-top: 50px;
   text-align: center;
-  font-size: 80%;
+  font-size: 85%;
 }
 
 .wrapper {
@@ -41,7 +41,6 @@ footer {
   margin-left: auto;
   padding-right: $horizontal-spacing-unit;
   padding-left: $horizontal-spacing-unit;
-  padding-top: $vertical-spacing-unit;
   display: block;
 }
 
@@ -56,5 +55,11 @@ footer {
   display: block;
   a {
     text-decoration: none;
+    color: $text-color;
   }
+}
+
+.creative-commons {
+  text-decoration: none;
+  color: $text-color;
 }

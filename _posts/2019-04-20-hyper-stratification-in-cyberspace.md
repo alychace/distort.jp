@@ -56,9 +56,9 @@ To be clear, I am not arguing for a moral condemnation of anyone who's ever bloc
 
 ## References
 
-Ahmed, Sara. 2004. "Affective Economies." Social Text 22 (2): 117–39. https://doi.org/10.1215/01642472-22-2_79-117.
+Ahmed, Sara. 2004. "Affective Economies." Social Text 22 (2): 117–39. <https://doi.org/10.1215/01642472-22-2_79-117>.
 
-"Block Together." n.d. Accessed April 20, 2019. https://blocktogether.org/.
+"Block Together." n.d. Accessed April 20, 2019. <https://blocktogether.org/>.
 
 Bourdieu, Pierre. 1992. The Logic of Practice. Translated by Richard Nice. Stanford University Press.
 
@@ -66,10 +66,10 @@ Douglas, Mary. 2013. Purity and Danger: An Analysis of Concepts of Pollution and
 
 Fisher, Mark. 2009. Capitalist Realism: Is There No Alternative? Zero Books. Winchester: O Books.
 
-———. 2010. "Terminator vs. Avatar: Notes on Accelerationism." Mark Fisher ReBlog (blog). April 14, 2010. http://markfisherreblog.tumblr.com/post/32522465887/terminator-vs-avatar-notes-on-accelerationism.
+———. 2010. "Terminator vs. Avatar: Notes on Accelerationism." Mark Fisher ReBlog (blog). April 14, 2010. <http://markfisherreblog.tumblr.com/post/32522465887/terminator-vs-avatar-notes-on-accelerationism>.
 
-Land, Nick. 2014. "Hyper-Racism." Outside In (blog). September 29, 2014. http://www.xenosystems.net/hyper-racism/.
+Land, Nick. 2014. "Hyper-Racism." Outside In (blog). September 29, 2014. <http://www.xenosystems.net/hyper-racism/>.
 
-Owen, Laura. n.d. "Has Facebook's Algorithm Change Hurt Hyperpartisan Sites? According to This Data, Nope." Nieman Lab (blog). Accessed April 20, 2019. https://www.niemanlab.org/2018/03/has-facebooks-algorithm-change-hurt-hyperpartisan-sites-according-to-this-data-nope/.
+Owen, Laura. n.d. "Has Facebook's Algorithm Change Hurt Hyperpartisan Sites? According to This Data, Nope." Nieman Lab (blog). Accessed April 20, 2019. <https://www.niemanlab.org/2018/03/has-facebooks-algorithm-change-hurt-hyperpartisan-sites-according-to-this-data-nope/>.
 
-"Urban Dictionary: Meatspace." n.d. Urban Dictionary. Accessed April 20, 2019. https://www.urbandictionary.com/define.php?term=meatspace.
+"Urban Dictionary: Meatspace." n.d. Urban Dictionary. Accessed April 20, 2019. <https://www.urbandictionary.com/define.php?term=meatspace>.
