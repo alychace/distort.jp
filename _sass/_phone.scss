@@ -1,0 +1,13 @@
+@media only screen and (max-device-width: 480px) {
+  .wrapper {
+      padding-right: $phone-horizontal-spacing-unit;
+      padding-left: $phone-horizontal-spacing-unit;
+  }
+  .logo {
+    width: 75%;
+    margin: auto;
+  }
+  .topnav {
+    width: 75%;
+  }
+}

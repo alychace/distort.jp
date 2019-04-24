@@ -27,4 +27,6 @@ layout: default
 
 {% include post-metadata.html %}
 
+<div class="post-content">
 {{ content }}
+</div>
