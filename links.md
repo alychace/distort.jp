@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Elsewhere
 permalink: /links/
 ---
+## Contact
+- Email: [alex@frenziedstasis.org](mailto:alex@frenziedstasis.org)
+- Twitter: [@alreadyseveral](http://twitter.com/{{site.twitter}})
 
-Where to find me on the Wired:
+## On the Wired:
 - [homepage](http://twitter.com/{{site.homepage}}).
-- [twitter](http://twitter.com/{{site.twitter}}).
 - [patreon](https://www.patreon.com/{{site.patreon}}).
