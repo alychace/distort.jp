@@ -10,7 +10,6 @@
 	{% include nav.html %}
 
 	<div class="wrapper">
-		<h1>{{ page.title }}</h1>
 		{{ content }}
 	</div>
 

@@ -23,7 +23,7 @@
 }
 
 /* Add a color to the active/current link */
-.topnav a:active {
-  background-color: $secondary-color;
-  color: $background-color;
+.active {
+  font-weight: bold;
+  text-decoration: underline;
 }

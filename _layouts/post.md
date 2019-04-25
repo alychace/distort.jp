@@ -25,6 +25,8 @@ layout: default
 	}
 </style> -->
 
+<h1>{{ page.title }}</h1>
+
 {% include post-metadata.html %}
 
 {{ content }}
