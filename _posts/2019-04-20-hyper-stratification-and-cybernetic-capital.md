@@ -4,6 +4,7 @@ date: 2019-04-24
 layout: post
 published: true
 description: On the undelivered dreams of the 90s.
+thumbnail: hyper-stratification_and_cybernetic_capital.png
 keywords: cyberspace, cybernetics, accelerationism, capitalist realism, social capital, technology, social justice
 ---
 

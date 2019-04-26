@@ -2,6 +2,7 @@
 layout: default
 title: Elsewhere
 permalink: /links/
+image: index.png
 ---
 
 ## Contact:
