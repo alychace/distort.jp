@@ -10,6 +10,14 @@
   <meta property="og:site_name" content="{{ site.title }}" />
   <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:type" content="article" />
+  <meta property="og:description" content="{{ page.description }}" />
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="{{ site.twitter }}">
+  <meta name="twitter:creator" content="{{ site.twitter }}">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ page.description }}">
+  <meta name="twitter:image" content="{{site.url}}{{site.baseurl}}/assets/thumbnails/{{ page.thumbnail }}">
 
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
