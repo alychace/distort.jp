@@ -6,7 +6,7 @@
   <title>{% if page.title and page.url != "/" %}{{ page.title | downcase }} | {% endif %}{{ site.title | downcase }}</title>
   <meta name="description" content="{{ page.description }}">
 
-  <meta property="og:image" content="{{site.url}}{{site.baseurl}}/assets/thumbnails/{{ page.thumbnail }}" />
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/thumbnails/{{ page.thumbnail }}" />
   <meta property="og:site_name" content="{{ site.title }}" />
   {% if page.url == "/" %}
     <meta property="og:title" content="{{ site.title }}" />
@@ -15,6 +15,7 @@
   {% endif %}
   <meta property="og:type" content="article" />
   <meta property="og:description" content="{{ page.description }}" />
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="{{ site.twitter }}">
@@ -25,7 +26,7 @@
     <meta name="twitter:title" content="{{ page.title }}">
   {% endif %}
   <meta name="twitter:description" content="{{ page.description }}">
-  <meta name="twitter:image" content="{{site.url}}{{site.baseurl}}/assets/thumbnails/{{ page.thumbnail }}">
+  <meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/thumbnails/{{ page.thumbnail }}">
 
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
