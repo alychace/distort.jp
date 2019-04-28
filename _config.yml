@@ -27,11 +27,16 @@ homepage: "http://alexchace.com"
 
 permalink: /:title/
 
+scholar:
+  style: chicago-author-date
+  sort_by: author
+
 # Build settings
 markdown: kramdown
 # theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-scholar
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
