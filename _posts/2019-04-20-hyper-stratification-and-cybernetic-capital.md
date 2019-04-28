@@ -1,11 +1,10 @@
 ---
 title: Hyper-Stratification and Cybernetic Capital
-thumbnail: hyper-stratification_and_cybernetic_capital.png
-bibliography: hyper-stratification_and_cybernetic_capital
 date: 2019-04-24
 layout: post
 published: true
 description: On the undelivered dreams of the 90s.
+thumbnail: hyper-stratification_and_cybernetic_capital.png
 keywords: cyberspace, cybernetics, accelerationism, capitalist realism, social capital, technology, social justice
 ---
 
@@ -54,3 +53,24 @@ Obviously, many on the left would take issue with being compared to the white su
 The unimaginability of _anything_ other than these totalitarian doctrines is closely related to Fisher's capitalist realism—"the widespread sense that not only is capitalism the only viable political and economic system, but also that it is now impossible even to imagine a coherent alternative to it" (Fisher 2009, 10). The normalization of crisis is all too familiar in the post-GamerGate era, and leftists often stress the need to "protect themselves" or their communities from sexist or racist assault. But we've created the Patriot Act of cyberspace: totalitarianism in the name of liberty. Go Figure.
 
 To be clear, I am not arguing for a moral condemnation of anyone who's ever blocked someone—or anyone who's ever harassed someone, for that matter. I'm not particularly interested in moralism. But what I am suggesting is that the incentive structure in cyberspace is such that we cannot imagine a cyberspace free of capital and totalitarian border practices. That doesn't mean cyberspace is all bad—clearly, it's put people in contact that would have never met before. We don't know how things will be, and there's potential in that. But for now, this is the way things are: we're in a feedback loop that stabilizes the cyber-structure, deepening its stratifying powers. The popular self-help gospel of the cyberage is to log off and disconnect, our phones and tablets already have utilities built-in to help us/force us to log off, as if going back to meatspace is supposed to be somehow more healthy. But is the solution really to try to go back to some primitive pre-internet state? Following Mark Fisher's beautiful work on the same subject, _[Terminator vs. Avatar: Notes on Accelerationism](http://markfisherreblog.tumblr.com/post/32522465887/terminator-vs-avatar-notes-on-accelerationism "Terminator vs. Avatar: Notes on Accelerationism")_, I'm not convinced we can go back to a meatspace not implicated in cyberspace, or that it would even be desirable if we could. And, given that cyberspace is multiple, it offers a loosening of connections never possible in meatspace. In meatspace, if your identity-community decides to shut you out, there's no exit. In cyberspace, you just go somewhere else, throw up a different pseudonym, and do your best to move on: there's always an exit, and another opportunity. It may strike us as foreign, but is there really another option? We've got to see this through: even if we become unrecognizable in the process.
+
+
+## References
+
+Ahmed, Sara. 2004. "Affective Economies." Social Text 22 (2): 117–39. <https://doi.org/10.1215/01642472-22-2_79-117>.
+
+"Block Together." n.d. Accessed April 20, 2019. <https://blocktogether.org/>.
+
+Bourdieu, Pierre. 1992. The Logic of Practice. Translated by Richard Nice. Stanford University Press.
+
+Douglas, Mary. 2013. Purity and Danger: An Analysis of Concepts of Pollution and Taboo. Hoboken : Taylor and Francis, 2013.
+
+Fisher, Mark. 2009. Capitalist Realism: Is There No Alternative? Zero Books. Winchester: O Books.
+
+———. 2010. "Terminator vs. Avatar: Notes on Accelerationism." Mark Fisher ReBlog (blog). April 14, 2010. <http://markfisherreblog.tumblr.com/post/32522465887/terminator-vs-avatar-notes-on-accelerationism>.
+
+Land, Nick. 2014. "Hyper-Racism." Outside In (blog). September 29, 2014. <http://www.xenosystems.net/hyper-racism/>.
+
+Owen, Laura. n.d. "Has Facebook's Algorithm Change Hurt Hyperpartisan Sites? According to This Data, Nope." Nieman Lab (blog). Accessed April 20, 2019. <https://www.niemanlab.org/2018/03/has-facebooks-algorithm-change-hurt-hyperpartisan-sites-according-to-this-data-nope/>.
+
+"Urban Dictionary: Meatspace." n.d. Urban Dictionary. Accessed April 20, 2019. <https://www.urbandictionary.com/define.php?term=meatspace>.

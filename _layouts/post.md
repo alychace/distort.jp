@@ -30,7 +30,3 @@ layout: default
 {% include post-metadata.html %}
 
 {{ content }}
-
-<h2> References</h2>
-
-{% bibliography --file {{ page.bibliography }} %}
