@@ -27,14 +27,8 @@ a {
 
 a:hover {
   color: $text-color;
-}
 
-footer {
-  margin-top: 50px;
-  text-align: center;
-  font-size: 85%;
 }
-
 .wrapper {
   max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
   max-width:         calc(800px - (#{$horizontal-spacing-unit} * 2));
@@ -43,33 +37,4 @@ footer {
   padding-right: $horizontal-spacing-unit;
   padding-left: $horizontal-spacing-unit;
   display: block;
-}
-
-.logo {
-  background-color: $background-color;
-  color: $secondary-color;
-  overflow: hidden;
-  width: 50%;
-  margin: auto;
-  text-align: center;
-  font-family: $heading-font-family;
-  display: block;
-  a {
-    text-decoration: none;
-    color: $text-color;
-  }
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    margin-top: .5em;
-    margin-bottom: .5em;
-  }
-}
-
-.creative-commons {
-  text-decoration: none;
-  color: $text-color;
 }

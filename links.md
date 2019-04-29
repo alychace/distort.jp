@@ -7,7 +7,7 @@ thumbnail: index.png
 ---
 
 ## Contact:
-Email: [alex@frenziedstasis.org](mailto:alex@frenziedstasis.org)
+Email: [{{site.email}}](mailto:{{site.email}})
 
 Twitter: [@alreadyseveral](http://twitter.com/{{site.twitter}})
 
