@@ -27,8 +27,8 @@ a {
 
 a:hover {
   color: $text-color;
-
 }
+
 .wrapper {
   max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
   max-width:         calc(800px - (#{$horizontal-spacing-unit} * 2));
@@ -37,4 +37,11 @@ a:hover {
   padding-right: $horizontal-spacing-unit;
   padding-left: $horizontal-spacing-unit;
   display: block;
+}
+
+::selection {
+  background: $secondary-color; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: $secondary-color; /* Gecko Browsers */
 }
