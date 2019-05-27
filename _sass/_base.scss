@@ -1,3 +1,9 @@
+::selection {
+  background: $secondary-color; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: $secondary-color; /* Gecko Browsers */
+}
 
 body {
   color: $text-color;
@@ -38,11 +44,4 @@ a:hover {
   padding-right: $horizontal-spacing-unit;
   padding-left: $horizontal-spacing-unit;
   display: block;
-}
-
-::selection {
-  background: $secondary-color; /* WebKit/Blink Browsers */
-}
-::-moz-selection {
-  background: $secondary-color; /* Gecko Browsers */
 }
