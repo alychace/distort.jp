@@ -9,7 +9,7 @@ thumbnail: index.png
 ## Contact:
 Email: [{{site.email}}](mailto:{{site.email}})
 
-Twitter: [@alreadyseveral](http://twitter.com/{{site.twitter}})
+Twitter: [@{{site.twitter}}](http://twitter.com/{{site.twitter}})
 
 ## On the Wired:
 - [homepage]({{site.homepage}}).
