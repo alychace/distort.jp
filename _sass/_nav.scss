@@ -1,16 +1,11 @@
 .logo {
-  background-color: $background-color;
-  color: $secondary-color;
   overflow: hidden;
   width: 50%;
   margin: auto;
   text-align: center;
   font-family: $heading-font-family;
   display: block;
-  a {
-    text-decoration: none;
-    color: $text-color;
-  }
+  a { text-decoration: none; }
   h1,
   h2,
   h3,
@@ -23,21 +18,17 @@
 }
 
 .topnav {
-  background-color: $background-color;
   overflow: hidden;
   width: 50%;
   margin: auto;
   text-align: center;
   font-family: $heading-font-family;
   /* Add a color to the active/current link */
-  .active {
-    font-weight: bold;
-  }
+  .active { font-weight: bold; }
 }
 
 /* Style the links inside the navigation bar */
 .topnav a {
-  color: $text-color;
   text-align: center;
   padding: 4px 6px;
   font-size: 17px;
@@ -45,8 +36,4 @@
 }
 
 /* Change the color of links on hover */
-.topnav a:hover {
-  background-color: $secondary-color;
-  color: $background-color;
-  font-weight: normal;
-}
+.topnav a:hover { font-weight: normal; }

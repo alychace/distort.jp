@@ -2,21 +2,16 @@
     margin: 0;
     padding: 0;
     list-style: none;
-    border-top: 2px solid black;
-    border-bottom: 2px solid black;
 
     > li {
         padding-bottom: 5px;
         padding-top: 5px;
         text-transform: lowercase;
-        a {
-            text-decoration: none;
-        }
+        a { text-decoration: none; }
     }
 }
 
 .post-meta {
-    color: $text-color;
     font-size: 85%;
     margin-bottom: 5px;
     margin-left: 0.1em;
