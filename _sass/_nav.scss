@@ -1,6 +1,7 @@
 .logo {
   overflow: hidden;
-  width: 50%;
+  max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 10));
+  max-width:         calc(800px - (#{$horizontal-spacing-unit} * 10));
   margin: auto;
   text-align: center;
   font-family: $heading-font-family;
@@ -13,13 +14,14 @@
   h5,
   h6 {
     margin-top: .5em;
-    margin-bottom: .5em;
+    margin-bottom: .25em;
   }
 }
 
 .topnav {
   overflow: hidden;
-  width: 50%;
+  max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 10));
+  max-width:         calc(800px - (#{$horizontal-spacing-unit} * 10));
   margin: auto;
   text-align: center;
   font-family: $heading-font-family;
@@ -29,10 +31,12 @@
 
 /* Style the links inside the navigation bar */
 .topnav a {
+  display: inline-block;
   text-align: center;
   padding: 4px 6px;
-  font-size: 17px;
+  font-size: 18px;
   text-decoration: none;
+  text-transform: lowercase;
 }
 
 /* Change the color of links on hover */

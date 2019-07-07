@@ -12,12 +12,25 @@
 }
 
 .post-meta {
-    font-size: 85%;
+    font-size: 100%;
     margin-bottom: 5px;
     margin-left: 0.1em;
     margin-top: 0;
     padding-top: 0;
     padding-bottom: 0;
     margin-bottom: 0;
+    text-transform: lowercase;
+    text-align: center;
+}
+
+.post-title {
+    text-align: center;
+}
+
+.post-content {
+    padding-top: $vertical-spacing-unit;
+    h1, h2, h3, h4, h5, h6 {
+        text-align: center;
+    }
     text-transform: lowercase;
 }
