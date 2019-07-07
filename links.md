@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Elsewhere
-description: Contact information, inks to social media, my personal website, as well as other sites or people I'm a fan of.
+description: Contact information, links to social media, my personal website, as well as other sites or people I'm a fan of.
 permalink: /links/
 thumbnail: index.png
 ---
