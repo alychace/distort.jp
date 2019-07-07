@@ -1,7 +1,8 @@
-$text-color: #222;
+$dark-color: #222;
 $secondary-color: #4AF626;
-$secondary-color: #1d620f;
-$background-color: #e0e6e6;
+$accent-color: #1d620f;
+$light-color: #e0e6e6;
+$white: #eff2f2;
 
 $font-family: 'Inconsolata', monospace;
 $line-height: 1.5 !default;
@@ -10,5 +11,5 @@ $heading-font-weight: 700 !default;
 $heading-line-height: 1.25 !default;
 
 $horizontal-spacing-unit: 50px;
-$vertical-spacing-unit: 20px;
-$phone-horizontal-spacing-unit: 10px;
+$vertical-spacing-unit: 25px;
+$phone-horizontal-spacing-unit: 12.5px;

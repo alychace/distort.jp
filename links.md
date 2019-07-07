@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Elsewhere
+title: Links
 description: Contact information, links to social media, my personal website, as well as other sites or people I'm a fan of.
 permalink: /links/
 thumbnail: index.png
