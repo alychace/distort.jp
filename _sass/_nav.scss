@@ -1,30 +1,24 @@
-.logo {
+.top {
   overflow: hidden;
-  max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 10));
-  max-width:         calc(800px - (#{$horizontal-spacing-unit} * 10));
+  max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 12));
+  max-width:         calc(800px - (#{$horizontal-spacing-unit} * 12));
   margin: auto;
+  margin-top: -$vertical-spacing-unit;
+  margin-bottom: $vertical-spacing-unit*2;
   text-align: center;
-  font-family: $heading-font-family;
+  font-family: $heading-font-family; 
+  border-radius: $vertical-spacing-unit/4;
+}
+
+.logo {
+  padding: 0;
+  margin: 0;
   display: block;
   a { text-decoration: none; }
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    margin-top: .5em;
-    margin-bottom: .25em;
-  }
+  font-size: 1.75em;
 }
 
 .topnav {
-  overflow: hidden;
-  max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 10));
-  max-width:         calc(800px - (#{$horizontal-spacing-unit} * 10));
-  margin: auto;
-  text-align: center;
-  font-family: $heading-font-family;
   /* Add a color to the active/current link */
   .active { font-weight: bold; }
 }
