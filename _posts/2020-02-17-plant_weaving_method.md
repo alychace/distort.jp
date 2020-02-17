@@ -1,5 +1,5 @@
 ---
-title: On Plant's Weaving as Method
+title: On Sadie Plant's Weaving Methodology
 date: 2019-04-24
 layout: post
 published: true
