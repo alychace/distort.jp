@@ -7,7 +7,9 @@ description: Weaving as a tactic of Feminist knowledge-production
 keywords: plant, weaving, cybernetics, notes, knowledge
 ---
 
-What follows is a series of footnotes on Sadie Plant’s _The Future Looms: Weaving Women and Cybernetics_, --putting into practice her account of the relationship between weaving, footnotes, and knowledge production. Footnotes are ordered by their appearance in the text and their page number. 0-45 = footnote 0, page 45.
+What follows is a series of footnotes on Sadie Plant’s _The Future Looms: Weaving Women and Cybernetics_--putting into practice her account of the relationship between weaving, footnotes, and knowledge production. This is nothing definitive (or should it be), just a series of notes.
+
+Footnotes are ordered by their appearance in the text and their page number. 0-45 = footnote 0, page 45.
 
 **0-45**. Plant takes that task already apparent in the subtitle--weaving--as a serious feminist methodological practice. Weaving is a cartography: Plant maps the history of women’s near-ubiquitous role in weaving itself from pre-industrial anthropological accounts, through the invention of the Jacquard Loom, onto the invention of the earliest computer systems, but there is only a scrambled sense of progression. This "map" is to be distinguished from what Deleuze-Guattari call a "tracing", i.e. it is not in service of a single generative line (or an authoritative account) of historical events, but rather as a series of interwoven and rewoven positions. For Plant, like Deleuze-Guattari, "…any point of a rhizome can be connected to any other, and must be" (Deleuze-Guattari, A Thousand Plateaus, p. 7). 
 
