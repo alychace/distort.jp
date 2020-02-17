@@ -3,6 +3,7 @@ title: On Plant's Weaving as Method
 date: 2019-04-24
 layout: post
 published: true
+thumbnail: weaving.jpeg
 description: Weaving as a tactic of Feminist knowledge-production.
 keywords: plant, weaving, cybernetics, notes, knowledge
 ---
