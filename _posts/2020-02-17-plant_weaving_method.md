@@ -8,7 +8,7 @@ description: Weaving as a tactic of Feminist knowledge-production.
 keywords: plant, weaving, cybernetics, notes, knowledge
 ---
 
-What follows is a series of footnotes on Sadie Plant’s _The Future Looms: Weaving Women and Cybernetics_--putting into practice her account of the relationship between weaving, footnotes, and knowledge production. This is nothing definitive (or should it be), just a series of notes.
+What follows is a series of footnotes on Sadie Plant’s _The Future Looms: Weaving Women and Cybernetics_--putting into practice her account of the relationship between weaving, footnotes, and knowledge production. This is nothing definitive (nor should it be), just a series of notes.
 
 Footnotes are ordered by their appearance in the text and their page number. 0-45 = footnote 0, page 45.
 
