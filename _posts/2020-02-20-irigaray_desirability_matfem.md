@@ -35,13 +35,13 @@ But while gender critical feminists take this lack of confinement—and especial
 Of course, gender critical feminists are unlikely to be moved by these (quite incomplete, maybe even problematic) arguments, but I hope what I have tried to present here invites more feminist discussion that a) is *meaningfully* inclusive of non-cis and non-white women and b) does not achieve this inclusion through meaningless idealist platitudes and empty and unsupported assertions that ‘trans women are women’ that, far too often, go unelaborated in ostensibly queer/trans/feminist accounts of gender/sex. Surely, there are no innocent parties in this ordeal.
 
 
-[^fn1]: This is one of the worst offenders: https://everydayfeminism.com/2016/04/attraction-desire-political/
+[^fn1]: This is one of the worst offenders: [https://everydayfeminism.com/2016/04/attraction-desire-political/]
 
 [^fn2]: Without doubt, important changes to this basic paradigm have proliferated Western culture over the past 70 years. However, a properly material analysis ought to take still-recent history into account. I would also wager that this simple structure has not changed as drastically as some would suggest.
 
 ## References
 
-1. Collins, Patricia Hill. 1986. “Learning from the Outsider Within: The Sociological Significance of Black Feminist Thought.” Social Problems 33 (6): S14–32. https://doi.org/10.2307/800672.
+1. Collins, Patricia Hill. 1986. “Learning from the Outsider Within: The Sociological Significance of Black Feminist Thought.” Social Problems 33 (6): S14–32. [https://doi.org/10.2307/800672].
 
 2. Irigaray, Luce. 1985. This Sex Which Is Not One. Ithaca, N.Y: Cornell University Press.
 
