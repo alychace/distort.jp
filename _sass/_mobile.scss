@@ -9,4 +9,10 @@
     margin-right: -$phone-horizontal-spacing-unit;
     border-radius: 0;
   }
+  .top {
+    margin-left: -$phone-horizontal-spacing-unit;
+    margin-right: -$phone-horizontal-spacing-unit;
+    margin-top: -$vertical-spacing-unit*2;
+    border-radius: 0;
+  }
 }
