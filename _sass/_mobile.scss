@@ -1,17 +1,17 @@
 @media screen and (max-width: 480px) {
   .wrapper {
-      padding-right: $phone-horizontal-spacing-unit/2;
-      padding-left: $phone-horizontal-spacing-unit/2;
-      width: 100%;
+      padding-right: $phone-horizontal-spacing-unit;
+      padding-left: $phone-horizontal-spacing-unit;
+      width: 90%;
   }
   .separator {
-    margin-left: -$phone-horizontal-spacing-unit;
-    margin-right: -$phone-horizontal-spacing-unit;
+    margin-left: -$phone-horizontal-spacing-unit*2;
+    margin-right: -$phone-horizontal-spacing-unit*2;
     border-radius: 0;
   }
   .top {
-    margin-left: -$phone-horizontal-spacing-unit;
-    margin-right: -$phone-horizontal-spacing-unit;
+    margin-left: -$phone-horizontal-spacing-unit*2;
+    margin-right: -$phone-horizontal-spacing-unit*2;
     max-width: 800px;
     margin-top: -$vertical-spacing-unit*2;
     border-radius: 0;
