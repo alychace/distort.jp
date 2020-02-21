@@ -1,4 +1,4 @@
-@media only screen and (max-device-width: 480px) {
+@media screen and (max-width: 480px) {
   .wrapper {
       padding-right: $phone-horizontal-spacing-unit/2;
       padding-left: $phone-horizontal-spacing-unit/2;
@@ -12,7 +12,10 @@
   .top {
     margin-left: -$phone-horizontal-spacing-unit;
     margin-right: -$phone-horizontal-spacing-unit;
+    max-width: 480px;
     margin-top: -$vertical-spacing-unit*2;
     border-radius: 0;
+    width: 100%;
+    display: block;
   }
 }
