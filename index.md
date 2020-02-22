@@ -1,6 +1,6 @@
 ---
 layout: default
-description: Experiments with fluidity.
+description: Experiments in fluidity.
 thumbnail: index.png
 desco: "I'm a PhD student studying film & media, but here I'll write about more: anarchism, capitalism, cybernetics, gender, programming, philosophy, and whatever else comes to mind."
 ---
