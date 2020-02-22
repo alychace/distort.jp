@@ -6,9 +6,11 @@ desco: "I'm a PhD student studying film & media, but here I'll write about more:
 ---
 
 
-“There are and will be those who think I have gone overboard. Let them rest assured that this assessment is correct, probably beyond their wildest imagination, and that I will continue to do so.” --- Mary Daly.
+"There are and will be those who think I have gone overboard. Let them rest assured that this assessment is correct, probably beyond their wildest imagination, and that I will continue to do so." --- Mary Daly.
 
 "Women diffuse themselves according to modalities scarcely compatible with the framework of ruling symbolics. Which doesn't happen without causing some turbulence, we might even say some whirlwinds..." --- Luce Irigaray.
+
+"This sex which was never one is not an empty zero but a cipher. A channel to the blank side, to the dark side, to the other side of the cycle...to doomsday..." --- Ccru.
 
 ## Archives
 <hr class="separator">
