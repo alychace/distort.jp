@@ -1,6 +1,6 @@
 ---
 title: On Sadie Plant's Weaving Methodology
-date: 2019-04-24
+date: 2020-02-17
 layout: post
 published: true
 thumbnail: weaving.jpeg
