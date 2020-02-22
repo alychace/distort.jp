@@ -1,6 +1,6 @@
 ---
 layout: default
-description: Writings on cyberculture, horror, technology, capitalism, gender, and whatever else comes to mind.
+description: Experiments with fluidity.
 thumbnail: index.png
 desco: "I'm a PhD student studying film & media, but here I'll write about more: anarchism, capitalism, cybernetics, gender, programming, philosophy, and whatever else comes to mind."
 ---
