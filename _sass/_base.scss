@@ -20,8 +20,8 @@ h6 {
 }
 
 .wrapper {
-  max-width: -webkit-calc(600px - (#{$horizontal-spacing-unit} * 1));
-  max-width:         calc(600px - (#{$horizontal-spacing-unit} * 1));
+  max-width: -webkit-calc(550px - (#{$horizontal-spacing-unit} * 1));
+  max-width:         calc(550px - (#{$horizontal-spacing-unit} * 1));
   margin-right: auto;
   margin-left: auto;
   padding-right: $horizontal-spacing-unit;
