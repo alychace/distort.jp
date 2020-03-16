@@ -19,7 +19,7 @@ email: alex@necrosystems.org
 description: >- # this means to ignore newlines until "baseurl:"
   Writings on cyberculture, horror, technology, capitalism, gender, and whatever else comes to mind.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://necrosystems.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.necrosystems.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter: necrosystems
 github:  leximch
 patreon: frenziedstasis
