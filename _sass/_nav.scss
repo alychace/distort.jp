@@ -1,6 +1,6 @@
 .top {
-  max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 12));
-  max-width:         calc(800px - (#{$horizontal-spacing-unit} * 12));
+  max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 10));
+  max-width:         calc(800px - (#{$horizontal-spacing-unit} * 10));
   margin: auto;
   margin-top: -$vertical-spacing-unit;
   margin-bottom: $vertical-spacing-unit*2;
