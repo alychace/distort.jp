@@ -69,4 +69,4 @@ It’s one thing to acknowledge Haraway’s contribution (even through disagreem
 ## Footnotes
 
 [^fn1]: Gleeson's [dispute](https://www.metamute.org/editorial/articles/breakthroughs-bait-xenofeminism-alienation) seems to be on the Marxist vs. Heideggerian concept of alienation and its deployment in XFM. I don't care enough to comment.
-[^fn2]: Given some of Haraway's recent comments--including her comments on Xenofeminism--we might rethink how 'pro-human' her politics turned out to be.
+[^fn2]: Given some of Haraway's recent interests--including her [comments](https://logicmag.io/nature/a-giant-bumptious-litter/) on Xenofeminism--we might rethink how 'pro-human' her politics turned out to be.
