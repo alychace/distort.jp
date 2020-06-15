@@ -62,7 +62,7 @@ It’s one thing to acknowledge Haraway’s contribution (even through disagreem
 
 4. Hester, Helen. 2018. _Xenofeminism_. Theory Redux. Cambridge, UK ; Medford, MA: Polity Press.
 
-5. Holt, Macon. 2018. “What Is Xenofeminism?” _Ark Review_, February 13, 2018. <http://ark-books.dk/what-is-xenofeminism/>.
+5. Holt, Macon. 2018. “What Is Xenofeminism?” _Ark Review_, February 13, 2018. <http://arkbooks.dk/what-is-xenofeminism/>.
 
 6. Lewis, Sophie. 2019. “Cyborg Sentiments.” _Red Pepper_, March 7, 2019. <https://www.redpepper.org.uk/cyborg-sentiments/>.
 
