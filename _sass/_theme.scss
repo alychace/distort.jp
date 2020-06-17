@@ -7,7 +7,7 @@ body {
 	background-color: $light-color;
 }
 
-a { color: lighten($accent-color, 5%); }
+a { color: darken($accent-color, 5%); }
 
 a:hover { color: $dark-color; }
 
