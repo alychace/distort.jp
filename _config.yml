@@ -14,16 +14,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Specular Anomalies
-author: Alexandra Chace
+author: Alyssa Chace
 email: achacega@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Writings on cyberculture, horror, technology, capitalism, gender, and whatever else comes to mind.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://distort.jp" # the base hostname & protocol for your site, e.g. http://example.com
-twitter: distortjp
+twitter: alychace
 github:  leximch
 patreon: frenziedstasis
-homepage: "http://alexchace.com"
+homepage: "http://alychace.com"
 gtag: UA-121343197-2
 
 permalink: /:title/
