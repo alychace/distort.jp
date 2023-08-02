@@ -20,9 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Writings on cyberculture, horror, technology, capitalism, gender, and whatever else comes to mind.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://distort.jp" # the base hostname & protocol for your site, e.g. http://example.com
-twitter: alychace
-github:  leximch
-patreon: frenziedstasis
+mastodon: "@alyc@mastodon.social"
+mastodon_url: "https://mastodon.social/@alyc"
 homepage: "http://alychace.com"
 gtag: UA-121343197-2
 
