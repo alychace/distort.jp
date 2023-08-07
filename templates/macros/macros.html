@@ -31,8 +31,6 @@
             <span>| {{ page.reading_time }} {{ config.extra.translations[lang][0].read_time }}</span>
             {% if page.extra.author %}
                 <span>| {{extra.translations[lang][0].posted_by }} <a href="{{ page.extra.author.social }}" target="_blank">{{ page.extra.author.name }}</a></span>
-            {% else %} 
-                <span>| {{extra.translations[lang][0].posted_by }} <a href="{{ config.author }}" target="_blank">{{ config.author }}</a></span>
             {% endif %}
 
             <br />
