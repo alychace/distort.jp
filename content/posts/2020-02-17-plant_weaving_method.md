@@ -2,7 +2,7 @@
 title = "On Sadie Plant's Weaving Methodology"
 date = "2020-02-17"
 description = "Weaving as tactic of Feminist knowledge-production."
-alias = ["/plant_weaving_method/"]
+aliases = ["/plant_weaving_method/"]
 keywords =  "plant, weaving, cybernetics, notes, knowledge"
 
 [taxonomies]

@@ -2,7 +2,7 @@
 title = "Irigaray, Desirability, and Materialist (trans)Feminism"
 date = "2020-02-20"
 description = "Desirability in the materialist account of sex/gender."
-alias = ["/irigaray_desirability_matfem/"]
+aliases = ["/irigaray_desirability_matfem/"]
 keywords =  "matfem, feminism, materialism, irigaray, transfeminism, sex, capital"
 
 [taxonomies]
