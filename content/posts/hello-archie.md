@@ -1,22 +1,31 @@
-# archie-zola
++++
+title = "Hello archie"
+date = "2022-05-14"
+description = "See how to config your archie theme"
+draft = true
 
+[taxonomies]
+tags = ["showcase"]
 
-A zola theme forked from [https://github.com/athul/archie](https://github.com/athul/archie)
+[extra]
+author = { name = "XXXMRG", social= "https://github.com/XXXMrG" }
++++
 
 ## Demo
 
+---
 
-The Main branch source code hosted on [https://archie-zola.vercel.app](https://archie-zola.vercel.app)
+The Main branch source code hosted on <https://archie-zola.vercel.app/>
 
 ### ScreenShot
 
-![screenshot-light](https://archie-zola.vercel.app/screenshot/screenshot-light.png)
+![screenshot light](/screenshot/screenshot-light.png)
 
-![screenshot-dark](https://archie-zola.vercel.app/screenshot/screenshot-dark.png)
-
+![screenshot dark](/screenshot/screenshot-dark.png)
 
 ## Installation
 
+---
 
 First download this theme to your themes directory:
 
@@ -32,66 +41,29 @@ git submodule add https://github.com/XXXMrG/archie-zola.git  themes/archie-zola
 ```
 
 and then enable it in your config.toml:
+
 ```toml
 theme = "archie-zola"
 ```
 
 ## Feature
 
-* Pagination
-* Tags
-* Auto Dark Mode(based on system theme)
-* Dark/Light Mode toggle
-* Google Analytics Script
-* Meta Tags For Individual Pages
+---
+
+- Pagination
+- Tags
+- Auto Dark Mode(based on system theme)
+- Dark/Light Mode toggle
 
 in the planning stage：
 
+- [ ] Google Analytics Script
 - [ ] Custom CSS & JS
 - [ ] Twitter Cards & Youtube video
 
-
 ## Config
 
-### Customize `<meta/>` tags 
-
-The following TOML and YAML code will yiled two `<meta/>` tags, `<meta property="og:title" content="the og title"/>`, `<meta property="og:description" content="the og description"/>`. 
-
-TOML: 
-
-```toml
-title = "post title"
-description = "post desc"
-date = "2023-01-01"
-
-[extra]
-meta = [
-    {property = "og:title", content = "the og title"},
-    {property = "og:description", content = "the og description"},
-]
-```
-
-YAML: 
-
-```yaml
-title: "post title"
-description: "post desc"
-date: "2023-01-01"
-extra: 
-    meta: 
-        - property: "og:title"
-          content: "the og title"
-        - property: "og:description"
-          content: "the og description"
-```
-
-If the `og:title`, the `og:description`, or the "description" are not set, the page's title and description will be used. That is, the following TOML code generates `<meta property="og:title" content="post title"/>`, `<meta property="og:description" content="post desc"/>`, and `<meta property="og:description" content="post desc"/>` as default values. 
-
-```toml
-title = "post title"
-description = "post desc"
-date = "2023-01-01"
-```
+---
 
 ### Theme config
 
@@ -157,9 +129,9 @@ url = "https://gitlab.com/your-name/"
 
 ### Content config
 
-**In content/posts/_index.md. I use Zola config: transparent = true to implement the pagination**
+**In content/posts/\_index.md. I use Zola config: transparent = true to implement the pagination**
 
-In Zola, you can use config in the _index.md to control pagination and sort post list:
+In Zola, you can use config in the \_index.md to control pagination and sort post list:
 
 ```toml
 paginate_by = 3
@@ -178,9 +150,13 @@ Follow this [doc](https://www.getzola.org/documentation/themes/extending-a-theme
 
 ## Contributing
 
+---
+
 Thank you very much for considering contributing to this project!
 
 We appreciate any form of contribution:
 
-* New issues (feature requests, bug reports, questions, ideas, ...)
-* Pull requests (documentation improvements, code improvements, new features, ...)
+- New issues (feature requests, bug reports, questions, ideas, ...)
+- Pull requests (documentation improvements, code improvements, new features, ...)[^zolawebsite]
+
+[^zolawebsite]: Website: [zola](https://getzola.org), GitHub: [getzola/zola](https://github.com/getzola/zola)
