@@ -3,7 +3,7 @@ base_url = "https://distort.jp"
 
 # The site title and description; used in feeds by default.
 title = "Specular Anomalies"
-description = "Reports from the Sprawl's dead-end steets."
+description = "Reports from dead-end steets."
 
 author = "aly"
 social = "https://mastodon.social/alyc"
