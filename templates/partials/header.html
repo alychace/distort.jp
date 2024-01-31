@@ -42,7 +42,8 @@
             <meta property="og:title" content="{% if page.title -%}{{ page.title }}{% elif config.title -%}{{ config.title }}{% else -%}Post{% endif -%}" />
         {% endif %}
     {% endif %}
-    {% if page.image %}<meta property="og:image" content="{{ page.image }}"/>{% endif %}
+
+    <meta property="og:image" content="{% if page.extra.image -%}{{ page.extra.image }}{% elif config.extra.image -%}{{ config.extra.image }}{% endif -%}"/>
 
     {% if not page_has_og_description %}
         {% if page.description %}

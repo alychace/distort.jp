@@ -4,6 +4,9 @@ date = "2020-06-14"
 description = "On Xenofeminism's unresolved disputes."
 aliases = ["/xf-immanence/","/xf_immanence"]
 
+[extra]
+image = "/imgs/xf_immanence.jpg"
+
 [taxonomies]
 tags = ["xenofeminism", "firestone", "laboria cuboniks", "sophie lewis", "amy ireland", "donna haraway", "cyborg", "feminism"]
 +++

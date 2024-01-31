@@ -5,6 +5,8 @@ description = "On the undelivered dreams of the 90s."
 aliases = ["/hyper-stratification-and-cybernetic-capital/"]
 keywords =  "plant, weaving, cybernetics, notes, knowledge"
 
+[extra]
+image = "/imgs/hyper-stratification_and_cybernetic_capital.png"
 [taxonomies]
 tags = ["xenofeminism", "firestone", "laboria cuboniks", "sophie lewis", "amy ireland", "donna haraway", "cyborg", "feminism"]
 +++

@@ -29,6 +29,7 @@ highlight_code = true
 highlight_theme = "OneHalfLight"
 
 [extra]
+image = "/img/acc_guide.jpg"
 
 # control dark mode: auto | dark | toggle
 mode = "auto"
@@ -43,7 +44,7 @@ copyright = "aly"
 ga = "G-040DR443G9"
 
 [extra.translations]
-languages = [{name = "en", url = "/"}]
+# languages = [{name = "en", url = "/"}]
 
 [[extra.translations.en]]
 show_more = "Read more ⟶"

@@ -5,6 +5,10 @@ description = "Weaving as tactic of Feminist knowledge-production."
 aliases = ["/plant_weaving_method/"]
 keywords =  "plant, weaving, cybernetics, notes, knowledge"
 
+[extra]
+image = "/imgs/weaving.jpeg"
+
+
 [taxonomies]
 tags = ["xenofeminism", "firestone", "laboria cuboniks", "sophie lewis", "amy ireland", "donna haraway", "cyborg", "feminism"]
 +++

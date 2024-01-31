@@ -5,6 +5,10 @@ description = "Desirability in the materialist account of sex/gender."
 aliases = ["/irigaray_desirability_matfem/"]
 keywords =  "matfem, feminism, materialism, irigaray, transfeminism, sex, capital"
 
+[extra]
+image = "/imgs/exchange.jpeg"
+
+
 [taxonomies]
 tags = ["xenofeminism", "firestone", "laboria cuboniks", "sophie lewis", "amy ireland", "donna haraway", "cyborg", "feminism"]
 +++

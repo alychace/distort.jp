@@ -4,6 +4,10 @@ date = "2020-08-08"
 description = "An introductory reading guide for the lost & curious."
 keywords = "accelerationism, sadie plant, feminism, marxism, nick land, xenofeminism"
 aliases = ["/accelerationism-guide/"]
+
+[extra]
+image = "/imgs/acc_guide.jpg"
+
 +++
 
 ## Author’s Note
