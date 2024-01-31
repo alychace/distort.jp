@@ -42,8 +42,7 @@
             <meta property="og:title" content="{% if page.title -%}{{ page.title }}{% elif config.title -%}{{ config.title }}{% else -%}Post{% endif -%}" />
         {% endif %}
     {% endif %}
-
-    <meta property="og:image" content="{{ page.image }}"/>
+    {% if page.image %}<meta property="og:image" content="{{ page.image }}"/>{% endif %}
 
     {% if not page_has_og_description %}
         {% if page.description %}
